@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kinship Showcase — Screen 7"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:paddingBottom="8dp" />
+    <TextView
+        android:id="@+id/demo_7_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 1 — isolated demo 7"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/demo_7_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 2 — isolated demo 7"
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/demo_7_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 3 — isolated demo 7"
+        android:textSize="17sp" />
+    <TextView
+        android:id="@+id/demo_7_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 4 — isolated demo 7"
+        android:textSize="14sp" />
+    <TextView
+        android:id="@+id/demo_7_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 5 — isolated demo 7"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/demo_7_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 6 — isolated demo 7"
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/demo_7_7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 7 — isolated demo 7"
+        android:textSize="17sp" />
+    <TextView
+        android:id="@+id/demo_7_8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 8 — isolated demo 7"
+        android:textSize="14sp" />
+    <TextView
+        android:id="@+id/demo_7_9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 9 — isolated demo 7"
+        android:textSize="15sp" />
+    <TextView
+        android:id="@+id/demo_7_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:padding="16dp"
+        android:text="Showcase component 10 — isolated demo 7"
+        android:textSize="16sp" />
+    </LinearLayout>
+</ScrollView>

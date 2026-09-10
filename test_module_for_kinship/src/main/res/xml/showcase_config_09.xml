@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<showcaseConfig version="9">
+    <surface name="demoSurface9" elevation="11" radius="17"/>
+    <motion name="entrance9" duration="360" damping="1.05"/>
+    <accessibility contentDescription="Showcase demo 9" announce="true"/>
+    <telemetry enabled="false" sampling="0.0"/>
+</showcaseConfig>
