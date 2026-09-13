@@ -1,9 +1,57 @@
 # A .gitignore file to keep the git workflow clean
 # You don't have to touch anything necessarily
+
 .env
 .env.*
+
+# If you intend to share a template file for environment variables, remove .env.example from your .gitignore.
 .env.example
 
+# Built application files
+*.apk
+*.aab
+*.aar
+
+# Built binaries & compiled code
+*.class
+/build
+/*/build
+/bin
+
+# Android Studio / IntelliJ IDEA project files
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Log files
+*.log
+
+# Signing keys & Keystores (CRITICAL for security)
+*.jks
+*.keystore
+signing.properties
+/app_key
+/app_key/*
+
+# Profiler & OS generated files
+.DS_Store
+captures/
+
+# Android NDK / C++ build outputs
+/.externalNativeBuild
+/.cxx/
+
+# Android Studio Profiler & Captures
+captures/
+*.hprof
+
+# Fastlane (if doing automated deployment)
+fastlane/report.xml
+fastlane/Preview.html
+
+
+# Others
 node_modules/
 npm-debug.log*
 yarn-debug.log*
@@ -34,7 +82,7 @@ target/
 *.swp
 *.swo
 
-.DS_Store
+
 Thumbs.db
 
 *.log
